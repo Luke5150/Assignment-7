@@ -1,4 +1,9 @@
-﻿using System.Collections;
+﻿/*
+ * (Luke Hensley)
+ * (Prototype 4)
+ * (Controls enemies)
+ */
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
